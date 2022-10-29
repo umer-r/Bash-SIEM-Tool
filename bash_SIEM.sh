@@ -1,5 +1,5 @@
 #!/bin/bash
-path="./honeypot.log"
+path="./honeypot.txt"
 file=$(cat $path)
 
 bi="Top_IpAddress"
